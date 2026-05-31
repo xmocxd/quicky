@@ -1,0 +1,15 @@
+{
+  "name": "quicky",
+  "version": "1.0.0",
+  "description": "Minimal Electron app",
+  "main": "main.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.7.5"
+  }
+}
